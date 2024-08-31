@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const admin = () => {
     return (
       <div className="p-4 flex flex-col mx-auto my-10 max-w-[550px] justify-center bg-black/70 rounded-2xl text-white">
