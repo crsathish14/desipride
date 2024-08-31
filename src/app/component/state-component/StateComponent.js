@@ -6,106 +6,127 @@ const states = [
   {
     img: "/States/AP.jpg",
     state: "Andhra Pradesh	",
+    key: "AP",
   },
   {
     img: "/States/AS.jpg",
     state: "Assam",
+    key: "AS",
   },
   {
     img: "/States/BR.jpg",
     state: "Bihar",
+    key: "BR",
   },
   {
     img: "/States/CS.jpg",
     state: "Chhattisgarh",
+    key: "CS",
   },
   {
     img: "/States/GA.jpg",
     state: "Goa",
+    key: "GA",
   },
   {
     img: "/States/GJ.jpg",
     state: "Gujarat",
+    key: "GJ",
   },
   {
     img: "/States/HP.jpg",
     state: "Himachal Pradesh",
+    key: "HP",
   },
   {
     img: "/States/JK.jpg",
     state: "Jammu and Kashmir",
+    key: "JK",
   },
   {
     img: "/States/KA.jpg",
     state: "Karnataka",
+    key: "KA",
   },
   {
     img: "/States/MH.jpg",
     state: "Maharashtra",
+    key: "MH",
   },
   {
     img: "/States/ML.jpg",
     state: "Meghalaya",
+    key: "ML",
   },
   {
     img: "/States/MN.jpg",
     state: "Manipur",
+    key: "MN",
   },
   {
     img: "/States/MP.jpg",
     state: "Madhya Pradesh",
+    key: "MP",
   },
   {
     img: "/States/MZ.jpg",
     state: "Mizoram",
+    key: "MZ",
   },
   {
     img: "/States/NL.jpg",
     state: "Nagaland",
+    key: "NL",
   },
   {
     img: "/States/OD.jpg",
     state: "Odisha",
+    key: "OD",
   },
   {
     img: "/States/PB.jpg",
     state: "Punjab",
+    key: "PB",
   },
   {
     img: "/States/RJ.jpg",
     state: "Rajasthan",
-  },
-  {
-    img: "/States/sk.jpg",
-    state: "Sikkim",
+    key: "RJ",
   },
   {
     img: "/States/SK.jpg",
     state: "Sikkim",
+    key: "SK",
   },
   {
     img: "/States/TN.jpg",
     state: "Tamil Nadu",
+    key: "TN",
   },
   {
     img: "/States/TR.jpg",
     state: "Tripura",
+    key: "TR",
   },
   {
     img: "/States/TS.jpg",
     state: "Telangana",
+    key: "TS",
   },
   {
     img: "/States/UP.jpg",
     state: "Uttar Pradesh",
+    key: "UP",
   },
   {
     img: "/States/UT.jpg",
     state: "Uttarakhanad",
+    key: "UT",
   },
   {
     img: "/States/WB.jpg",
     state: "West Bengal",
+    key: "WB",
   },
 ];
 const initalStateSize = 6;
