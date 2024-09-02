@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import { states } from '@/app/mock/mock'
+import { states } from '@/mock/mock'
 import Link from 'next/link';
 
 const StatePage = ({ state }) => {

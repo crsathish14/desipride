@@ -140,7 +140,7 @@ export const StateComponenet = () => {
   }
   return (
     <>
-      <div className="state-component m-5">
+      <div className="state-component m-3">
         <h1 className="text-center text-xl font-bold my-4">Shop by State</h1>
         <div className="mx-24 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
           {!showMore &&

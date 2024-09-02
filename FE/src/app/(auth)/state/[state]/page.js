@@ -1,4 +1,4 @@
-import StatePage from '@/app/component/statePage/StatePage'
+import StatePage from '@/app/component/statePage/StatePage';
 import React from 'react'
 
 const page = ({ params }) => {
